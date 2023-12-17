@@ -3,6 +3,8 @@
 ## Introduction
 This repository holds a text-based Python application employing the MVC (Model-View-Controller) architectural pattern. It is designed to facilitate members of Monash Sports in scheduling their appointments with personal trainers, managing their membership details, and tracking their fitness progress.
 
+- Developed as part of the FIT5136 Software Engineering course.
+  
 ## Features
 ### Member login
 - Simple login functionality for members/trainers.
@@ -22,4 +24,4 @@ This repository holds a text-based Python application employing the MVC (Model-V
 ### Test Login
 - Login: admin
 - Password: admin
-
+- Developed as part of the FIT5032 Internet Applications Development course.
