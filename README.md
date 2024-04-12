@@ -24,4 +24,6 @@ This repository holds a text-based Python application employing the MVC (Model-V
 ### Test Login
 - Login: admin
 - Password: admin
-- Developed as part of the FIT5032 Internet Applications Development course.
+
+
+
