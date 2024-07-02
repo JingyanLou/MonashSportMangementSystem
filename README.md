@@ -1,13 +1,16 @@
 # Monash Sports Management System (MSMS)
 
 ## Introduction
-This repository holds a text-based Python application employing the MVC (Model-View-Controller) architectural pattern. It is designed to facilitate members of Monash Sports in scheduling their appointments with personal trainers, managing their membership details, and tracking their fitness progress.
+A text-based Python application employing the MVC (Model-View-Controller) architectural pattern. It is designed to facilitate members of Monash Sports in scheduling their appointments with personal trainers, managing their membership details, and tracking their fitness progress.
 
 - Developed as part of the FIT5136 Software Engineering course.
   
 ## Features
 ### Member login
 - Simple login functionality for members/trainers.
+<p align="center">
+  ![WechatIMG206](https://github.com/JingyanLou/MonashSportMangementSystem/assets/92469426/42b6875c-4cdc-441f-a0e9-6882890eafcd)
+</p>
 
 ### Appointment Management
 - Booking an appointment with selected Branches and PTs.
@@ -24,6 +27,5 @@ This repository holds a text-based Python application employing the MVC (Model-V
 ### Test Login
 - Login: admin
 - Password: admin
-
 
 
