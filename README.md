@@ -10,7 +10,7 @@
 </p>
 
 ## Features
-Member login
+### Member login
 <p align="center">
   <img width="400" alt="Member login" src="https://github.com/JingyanLou/MonashSportMangementSystem/assets/92469426/aae46ba8-f526-4bec-af30-efbadb4c6b58">
 </p>
@@ -47,14 +47,24 @@ Member login
   <img width="364" alt="Confirm appointment" src="https://github.com/JingyanLou/MonashSportMangementSystem/assets/92469426/b6fe50b8-84ae-4b79-9af6-b2cf61f64e68">
 </p>
 
-### IDE Recommendations
-- Pycharm
-  
-## Installation and Setup
-- Download the whole project with data included in the same folder and run main.py
+## Manage Appointment
+<p align="center">
+<img width="364" alt="Manage Appointment" src="https://github.com/JingyanLou/MonashSportMangementSystem/assets/92469426/929fdcad-97e4-4cf8-be0b-241f654a3ffc">
+</p>
 
-### Test Login
-- Login: admin
-- Password: admin
+## Express booking with binded favourtie Branches&PTs
+<p align="center">
+<img width="354" alt="Express booking with binded favourtie Branches&PTs" src="https://github.com/JingyanLou/MonashSportMangementSystem/assets/92469426/314a7260-7bbc-43ff-9b20-ba51c4919492">
+</p>
+
+## Installation and Setup
+- Download the whole project with data included in the same folder and run main.py.
+- If you would like to register, you can head to the "user.csv" file to create your account.
+- Note: This application uses CSV as its Database, all changes will be saved only if you exit properly (Option4 Log Out in HomeMenu)
+
+### List of Account you can use: 
+- Username:young@student.monash.edu Password:123
+- Username:mike@student.monash.edu Password:123
+- Username:admin Password:admin
 
 
