@@ -8,9 +8,8 @@ A text-based Python application employing the MVC (Model-View-Controller) archit
 ## Features
 ### Member login
 - Simple login functionality for members/trainers.
-<p align="center">
-  ![WechatIMG206](https://github.com/JingyanLou/MonashSportMangementSystem/assets/92469426/42b6875c-4cdc-441f-a0e9-6882890eafcd)
-</p>
+![WechatIMG206](https://github.com/JingyanLou/MonashSportMangementSystem/assets/92469426/aae46ba8-f526-4bec-af30-efbadb4c6b58)
+
 
 ### Appointment Management
 - Booking an appointment with selected Branches and PTs.
